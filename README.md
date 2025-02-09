@@ -61,8 +61,7 @@ Expo AV - Video playback.
 
 Firebase - Backend for data storage.
 
-React Navigation Spefically React native bottom tabs- Navigation between screens (if applicable).
-
+React Navigation Spefically React native bottom tabs- Navigation between screens
 Scripts
 npm start or yarn start - Start the development server.
 
