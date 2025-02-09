@@ -66,4 +66,3 @@ If you have any questions or feedback, feel free to reach out:
 - GitHub - [omotoshogyro](https://github.com/omotoshogyro)
 ```
 
-You can copy this updated content into your `README.md` file for better formatting and readability.
